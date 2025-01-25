@@ -1,3 +1,5 @@
 /.dockerenv
 
 /.venv
+
+__pycache__
